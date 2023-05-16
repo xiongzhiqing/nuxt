@@ -4,8 +4,8 @@
 <script lang="ts" setup>
   const route = useRoute()
 </script>
-<style scoped lang="scss">
+<style scoped>
 h2 {
-  color: $linkColor
+  color: var(--link-color)
 }
 </style>
